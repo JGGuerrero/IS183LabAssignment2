@@ -1,6 +1,7 @@
 #about-container {
     height: 100%;
     /* background-color: red; */
+    overflow: auto;
 }
 
 #about-container-inner {
